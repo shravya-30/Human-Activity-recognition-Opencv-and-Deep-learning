@@ -74,9 +74,4 @@ The system successfully demonstrated activity recognition on sample video inputs
 - Adding transformer-based video models  
 - Expanding to more complex activity classes  
 
----
 
-## Author
-Shravya Sistla  
-Aspiring AI Product Manager | Technical PM Background  
-LinkedIn: [Add Link]
