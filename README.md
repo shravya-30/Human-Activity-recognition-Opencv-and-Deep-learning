@@ -1,5 +1,3 @@
-# Human-Activity-recognition-Opencv-and-Deep-learning
-
 # Human Activity Recognition using OpenCV + Deep Learning
 
 ## Overview
